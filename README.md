@@ -4,4 +4,4 @@
 
 ## 🗂️ Contenido de la data
 - **diputados_2021**: Base de datos sobre la distribución de diputados.
-  Fuente: https://sitl.diputados.gob.mx/LXV_leg/info_diputados.php
+Fuente: https://sitl.diputados.gob.mx/LXV_leg/info_diputados.php
